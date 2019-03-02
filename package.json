@@ -1,0 +1,14 @@
+{
+  "name": "react-native-radio-button-2",
+  "version": "1.0.0",
+  "description": "This package is under the construction. Please don't use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-radio-button"
+  ],
+  "author": "Bimal Gurung <bimalgrg519@gmail.com>",
+  "license": "ISC"
+}
